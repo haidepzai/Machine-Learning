@@ -18,5 +18,5 @@
 	* Grid Search
 	* RandomSearch
 	* Data Normalization
-		*Min Max Scaler
+		* Min Max Scaler
 		* Standard Scaler
