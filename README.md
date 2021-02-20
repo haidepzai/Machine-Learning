@@ -1,5 +1,7 @@
 # Machine Learning
 
+> Some basic implementation and first steps into Machine Learning
+
 ## Topics
 
 * KNN-Implementation
