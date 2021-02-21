@@ -22,3 +22,7 @@
 	* Data Normalization
 		* Min Max Scaler
 		* Standard Scaler
+	* Decision Tree
+		* Wine Dataset
+		* Random Forest
+		* Gradient Boosting
