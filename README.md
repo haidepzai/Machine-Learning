@@ -1,5 +1,7 @@
 # Machine Learning
 
+> Some basic implementation and first steps into Machine Learning
+
 ## Topics
 
 * KNN-Implementation
@@ -18,5 +20,5 @@
 	* Grid Search
 	* RandomSearch
 	* Data Normalization
-		*Min Max Scaler
+		* Min Max Scaler
 		* Standard Scaler
